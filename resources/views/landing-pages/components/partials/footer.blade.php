@@ -98,7 +98,7 @@
                     <p class="mb-0">©
                         <script>
                             document.write(new Date().getFullYear())
-                        </script> Hope UI, All Rights Reserved.
+                        </script> PT PAL Indonesia, All Rights Reserved.
                     </p>
                 </div>
             </div>
