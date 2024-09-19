@@ -56,7 +56,7 @@
             <hr class="bottom-hr" />
             <div class="col-md-12 text-center">
                 <p>©
-                    <script>document.write(new Date().getFullYear())</script> Hope UI, All Rights Reserved.
+                    <script>document.write(new Date().getFullYear())</script>Copyright  2024 PT PAL Indonesia (Persero), All Rights Reserved.
                 </p>
             </div>
         </div>
